@@ -1,0 +1,7 @@
+1. 
+Es no žurnālfaila izvilktu vissus kļūdu paziņojumus, sagrupētu tos pēc stundām, kad tie notika un atrastu stundu, kurā bija vissvairāk kļūdu
+
+2.
+Powershell var filtrēt datus no teksta rindām lai atrastu tieši to ko mēklē, ar Bash tev pašam vajag atrast to ko meklē.
+
+Ieguvums: Nav jāmeklē vajadzīgos datus starp 100 citām datu rindām
